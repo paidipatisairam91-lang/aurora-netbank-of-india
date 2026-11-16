@@ -1,0 +1,2 @@
+# Fictional customer records are runtime data, not source code.
+database/*.json linguist-detectable=false

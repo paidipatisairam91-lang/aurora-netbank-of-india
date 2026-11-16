@@ -1,0 +1,11 @@
+# Native build outputs
+/aurora_bank
+/aurora_bank.exe
+/bank_tests
+/bank_tests.exe
+/fraud_tests
+/fraud_tests.exe
+/build/
+
+# Temporary database files
+/database/bank.json.tmp
